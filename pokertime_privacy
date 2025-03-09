@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politique de Confidentialité</title>
+</head>
+<body>
+    <h1>Politique de Confidentialité pour Pokertime GPT</h1>
+    <p>Ce GPT utilise des actions API pour interagir avec l'Orchestrateur et l'Arène.</p>
+    <p>Aucune donnée personnelle n'est stockée ni partagée.</p>
+    <p>Les requêtes sont envoyées uniquement pour exécuter des actions liées à Pokertime.</p>
+    <p>Contact : [alexis.courtois89@orange.fr]</p>
+</body>
+</html>
